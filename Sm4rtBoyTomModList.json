@@ -6,7 +6,7 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "v1.1.0",
+			"version": "1.1.0",
 			"name": "StalkerAidsAndSupplements",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
@@ -58,7 +58,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "v1.0.3",
+			"version": "1.0.3",
 			"name": "MoreWood",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
@@ -110,8 +110,8 @@
 		},
 		{
 			"type": "mod",
-			"version": "",
-			"name": "AmmunitionCraftingTools v1.0.1",
+			"version": "1.0.1",
+			"name": "AmmunitionCraftingTools",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",

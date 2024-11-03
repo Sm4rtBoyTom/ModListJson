@@ -1,0 +1,164 @@
+{
+	"version": "2",
+	"author": "Sm4rtBoyTom",
+	"authorURL": "https://github.com/Sm4rtBoyTom",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "v1.1.0",
+			"name": "StalkerAidsAndSupplements v1.1.0",
+			"displayName": "",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2024-08-01",
+			"updated": "2024-11-03",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/download/1.1.0/StalkerAidsAndSupplements1.1.0.zip",
+			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
+			"description": "This mod expands on TLD's medical items. It's heavily inspired by S.T.A.L.K.E.R games, you may come across some refferences. :D",
+			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Food",
+				"Cheats",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/Sm4rtBoyTom/ModListJson/blob/main/list_icon_stalkeraidsandsupplements.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "v1.0.3",
+			"name": "MoreWood v1.0.3",
+			"displayName": "",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2024-10-04",
+			"updated": "2024-11-03",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.3/MoreWood.modcomponent",
+			"modURL": "https://github.com/Sm4rtBoyTom/MoreWood",
+			"description": "This mod adds two new types of wood. Birch can be found near birch trees or forests. Oak firewood\ncan sometimes be found near oak trees. Warning wood doesn't respawn! and yes it's intended.",
+			"tags": "wood, fire, firestarting, birch, oak, firewood, campfire, burnanble, Sm4rtBoyTom",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/Sm4rtBoyTom/ModListJson/blob/main/list_icon_morewood.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/MoreWood",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.3/MoreWood.modcomponent"
+				]
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "v1.0.1",
+			"name": "AmmunitionCraftingTools",
+			"displayName": "",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2024-10-28",
+			"updated": "2024-11-03",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/download/V1.0.1/AmmoCraftingTools.modcomponent",
+			"modURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
+			"description": "This mod adds tools for crafting ammunition in the field. You don't need ammunition workbench to craft cartridges anymore. Crafting ammunition using the tools takes significantly longer.",
+			"tags": "ammo, ammunition, tools, crafting, workbench, blueprint, revolver, rifle, gunpowder, cartridge, casing, Sm4rtBoyTom",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/Sm4rtBoyTom/ModListJson/blob/main/list_icon_ammunitioncraftingtools.png"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/download/V1.0.1/AmmoCraftingTools.modcomponent"
+				]
+			},
+			"aliases": []
+		}
+	]
+}

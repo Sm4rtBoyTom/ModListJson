@@ -80,7 +80,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/Sm4rtBoyTom/ModListJson/blob/main/list_icon_morewood.png"
+				"list_icon_morewood.png"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -132,7 +132,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/Sm4rtBoyTom/ModListJson/blob/main/list_icon_ammunitioncraftingtools.png"
+				"list_icon_ammunitioncraftingtools.png"
 			],
 			"dependencies": [
 				"ModSettings",

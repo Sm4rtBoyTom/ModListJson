@@ -153,9 +153,9 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": [
-					"https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/download/V1.0.1/AmmoCraftingTools.modcomponent"
+					""
 				]
 			},
 			"aliases": []

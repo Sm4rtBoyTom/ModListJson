@@ -30,7 +30,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://github.com/Sm4rtBoyTom/ModListJson/blob/main/list_icon_stalkeraidsandsupplements.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreMeds.png"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -80,7 +80,7 @@
 				"tftft"
 			],
 			"images": [
-				"list_icon_morewood.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreWood.png"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -132,7 +132,7 @@
 				"tftft"
 			],
 			"images": [
-				""
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AmmoTools.png"
 			],
 			"dependencies": [
 				"ModSettings",

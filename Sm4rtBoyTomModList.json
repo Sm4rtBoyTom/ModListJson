@@ -132,7 +132,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AmmoCraftingTools.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AmmoTools.png"
 			],
 			"dependencies": [
 				"ModSettings",

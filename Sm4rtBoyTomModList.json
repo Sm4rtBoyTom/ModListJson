@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0.1",
+			"version": "2.0.2",
 			"name": "StalkerAidsAndSupplements",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-08-01",
-			"updated": "2024-12-13",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/download/v2.0.1/StalkerAidsAndSupplements2.0.1.zip",
+			"updated": "2024-12-18",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/download/v2.0.2/StalkerAidsAndSupplements2.0.2.zip",
 			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
 			"description": "This mod expands on TLD's medical items. It's heavily inspired by S.T.A.L.K.E.R games, you may come across some refferences. :D",
 			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom",
@@ -47,7 +47,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.38",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -58,14 +58,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.5",
+			"version": "1.0.6",
 			"name": "MoreWood",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-10-04",
-			"updated": "2024-12-15",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.5/MoreWood1.0.5.zip",
+			"updated": "2024-12-18",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.6/MoreWood1.0.6.zip",
 			"modURL": "https://github.com/Sm4rtBoyTom/MoreWood",
 			"description": "This mod adds two new types of wood. Birch can be found near birch trees or forests. Oak firewood\ncan sometimes be found near oak trees. Warning wood doesn't respawn! and yes it's intended.",
 			"tags": "wood, fire, firestarting, birch, oak, firewood, campfire, burnanble, Sm4rtBoyTom",
@@ -97,7 +97,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.38",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -110,14 +110,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.1",
+			"version": "2.2.2",
 			"name": "AmmunitionCraftingTools",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-10-28",
-			"updated": "2024-12-14",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/download/v2.2.1/AmmoCraftingTools.modcomponent",
+			"updated": "2024-12-18",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/download/v2.2.2/AmmoCraftingTools.modcomponent",
 			"modURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
 			"description": "This mod adds tools for crafting ammunition in the field. You don't need ammunition workbench to craft cartridges anymore. Crafting ammunition using the tools takes significantly longer.",
 			"tags": "ammo, ammunition, tools, crafting, workbench, blueprint, revolver, rifle, gunpowder, cartridge, casing, bullet, bullets, fire, forge, Sm4rtBoyTom",
@@ -149,7 +149,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
+				"tldversion": "2.38",
 				"mlversion": "0.6.6"
 			},
 			"updater": {

@@ -159,6 +159,56 @@
 				]
 			},
 			"aliases": []
+		},
+		{
+	"version": "2",
+	"author": "Sm4rtBoyTom",
+	"authorURL": "https://github.com/Sm4rtBoyTom",
+	"supportURL": "",
+	"mods": [
+		{
+			"type": "mod",
+			"version": "1.1.0",
+			"name": "HUD Improvements",
+			"displayName": "HUD Improvements",
+			"author": "Sm4rtBoyTom, DigitalZombie",
+			"previousAuthors": "",
+			"released": "2025-01-02",
+			"updated": "2025-01-02",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDImprovements/releases/download/v1.1.0/HUDImprovements.dll",
+			"modURL": "https://github.com/Sm4rtBoyTom/HUDImprovements",
+			"description": "",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Graphics",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
 		}
-	]
 }

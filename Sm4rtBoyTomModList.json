@@ -22,6 +22,7 @@
 				"Gameplay",
 				"Gear Items",
 				"Food",
+				"Overhaul",
 				"Cheats",
 				"Misc"
 			],
@@ -33,7 +34,6 @@
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreMeds.png"
 			],
 			"dependencies": [
-				"ModSettings",
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
@@ -47,14 +47,15 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.38",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
 		},
 		{
 			"type": "mod",
@@ -67,7 +68,7 @@
 			"updated": "2024-12-18",
 			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.6/MoreWood1.0.6.zip",
 			"modURL": "https://github.com/Sm4rtBoyTom/MoreWood",
-			"description": "This mod adds two new types of wood. Birch can be found near birch trees or forests. Oak firewood\ncan sometimes be found near oak trees. Warning wood doesn't respawn! and yes it's intended.",
+			"description": "This mod adds two new types of wood. Birch can be found near birch trees or forests. Oak firewood\\ncan sometimes be found near oak trees. Warning wood doesn't respawn! and yes it's intended.",
 			"tags": "wood, fire, firestarting, birch, oak, firewood, campfire, burnanble, Sm4rtBoyTom",
 			"categories": [
 				"Quality of Life",
@@ -83,7 +84,6 @@
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreWood.png"
 			],
 			"dependencies": [
-				"ModSettings",
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
@@ -97,16 +97,15 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.38",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
-				"enable": true,
-				"downloads": [
-					"https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.3/MoreWood.modcomponent"
-				]
+				"enable": false,
+				"downloads": []
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
 		},
 		{
 			"type": "mod",
@@ -125,6 +124,7 @@
 				"Quality of Life",
 				"Gameplay",
 				"Gear Items",
+				"Overhaul",
 				"Misc"
 			],
 			"gameversion": [
@@ -135,7 +135,6 @@
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AmmoTools.png"
 			],
 			"dependencies": [
-				"ModSettings",
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
@@ -149,30 +148,29 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.38",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": false,
-				"downloads": [
-					""
-				]
+				"downloads": []
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
 		},
 		{
 			"type": "mod",
 			"version": "1.1.0",
 			"name": "HUD Improvements",
-			"displayName": "HUD Improvements",
-			"author": "Sm4rtBoyTom, DigitalZombie",
+			"displayName": "",
+			"author": "Sm4rtBoyTom, Digitalzombie",
 			"previousAuthors": "",
 			"released": "2025-01-02",
 			"updated": "2025-01-02",
 			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDImprovements/releases/download/v1.1.0/HUDImprovements.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/HUDImprovements",
-			"description": "",
-			"tags": "",
+			"description": "HUD Improvements mod adds ability to enable or disable certain, potentially annoying, HUD elements via ModSettings.\nBig thanks to DigitalZombie for allowing me to merge this mod together with his Yes I Know mod\nDisables the hover text on items and / or fires. You've played the game long enough, you know how a stick looks like.",
+			"tags": "HUD, Sm4rtBoyTom, Graphics, Icon, UI, Improve",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -192,7 +190,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/HUDImprovements",
 				"issues": ""
 			},
 			"testedon": {
@@ -204,4 +202,7 @@
 				"downloads": []
 			},
 			"aliases": [],
+			"replaces": []
+		}
+	]
 }

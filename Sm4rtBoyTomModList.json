@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0.2",
+			"version": "2.2.0",
 			"name": "StalkerAidsAndSupplements",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-08-01",
-			"updated": "2024-12-18",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/download/v2.0.2/StalkerAidsAndSupplements2.0.2.zip",
+			"updated": "2025-5-16",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/download/v2.2.0/StalkerAidsAndSupplements.modcomponent",
 			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
 			"description": "This mod expands on TLD's medical items. It's heavily inspired by S.T.A.L.K.E.R games, you may come across some refferences. :D",
 			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom",
@@ -35,6 +35,7 @@
 			],
 			"dependencies": [
 				"ModComponent",
+				"ModSettings",
 				"LocalizationUtilities",
 				"GearSpawner",
 				"CraftingRevisions"
@@ -43,11 +44,11 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
+				"notes": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v2.2.0",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
+				"tldversion": "2.40",
 				"mlversion": "0.6.6"
 			},
 			"updater": {

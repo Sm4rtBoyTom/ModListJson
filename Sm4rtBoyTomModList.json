@@ -60,14 +60,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.6",
+			"version": "2.0.0",
 			"name": "MoreWood",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-10-04",
-			"updated": "2024-12-18",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v1.0.6/MoreWood1.0.6.zip",
+			"updated": "2025-05-24",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/download/v2.0.0/MoreWood2.0.0.zip",
 			"modURL": "https://github.com/Sm4rtBoyTom/MoreWood",
 			"description": "This mod adds two new types of wood. Birch can be found near birch trees or forests. Oak firewood\\ncan sometimes be found near oak trees. Warning wood doesn't respawn! and yes it's intended.",
 			"tags": "wood, fire, firestarting, birch, oak, firewood, campfire, burnanble, Sm4rtBoyTom",
@@ -86,9 +86,11 @@
 			],
 			"dependencies": [
 				"ModComponent",
+				"ModSettings",
 				"LocalizationUtilities",
 				"GearSpawner",
 				"CraftingRevisions"
+				
 			],
 			"status": {
 				"working": true,
@@ -98,7 +100,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.39",
+				"tldversion": "2.40",
 				"mlversion": "0.6.6"
 			},
 			"updater": {

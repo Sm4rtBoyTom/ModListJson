@@ -34,8 +34,8 @@
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreMeds.png"
 			],
 			"dependencies": [
-				"ModComponent",
 				"ModSettings",
+				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
 				"CraftingRevisions"
@@ -85,12 +85,11 @@
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreWood.png"
 			],
 			"dependencies": [
-				"ModComponent",
 				"ModSettings",
+				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
 				"CraftingRevisions"
-				
 			],
 			"status": {
 				"working": true,
@@ -200,6 +199,54 @@
 			},
 			"testedon": {
 				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Repairable Repairables",
+			"displayName": "",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2025-05-31",
+			"updated": "2025-05-31",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables/releases/download/1.0.0/Repairable.Repairables.dll",
+			"modURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables",
+			"description": "Repairable Repairables, gives you the option to fix three of the basic tools used for repairing, crafting and sharpening. The tool that can be fixed are as follows: Rifle Cleaning Kit, Sewing Kit, whetstone/Sharpening Stone",
+			"tags": "tools, gear, items, crafting, repair, overhaul, fix, hud, Sm4rtBoyTom, tool, sewing kit, kit, cleaning, rifle, stone, sharpening, whetstone",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_RepairableRepairables.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/Repairable-Repairables",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.43",
 				"mlversion": "0.6.6"
 			},
 			"updater": {

@@ -260,8 +260,8 @@
 		{
 			"type": "mod",
 			"version": "2.1.0",
-			"name": "Choose Starting Conditions",
-			"displayName": "Choose Starting Conditions",
+			"name": "Choose Starting Conditions - Remastered",
+			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "Cass, Phaedrus",
 			"released": "2025-07-24",
@@ -298,6 +298,54 @@
 			},
 			"updater": {
 				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "0.1.0",
+			"name": "Relics of the Quiet Apocalypse",
+			"displayName": "Relics of the Quiet Apocalypse",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2025-07-24",
+			"updated": "2025-07-24",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse/releases/download/v0.1.0/RetroTextures.dll",
+			"modURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse",
+			"description": "Relics of the Quiet Apocalypse mod brings back GearItem textures from the older builds of TLD. (Can be customized via ModSettings.)",
+			"tags": "Texture, Rewamp, Graphic, Settings, Old, Relics, Apocalypse, Food, Tool, Look, Pack, Book, Cut, Discontinued",
+			"categories": [
+				"Quality of Life",
+				"Graphics",
+				"Overhaul",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_RetroTextures.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse",
+				"issues": "\n- Unopened cans of food look the same as opened.\n- First person Matches texture is different.\n- Sometimes the texture isn't loaded correctly when entering a scene (usually can be fixed by re-entering scene/reloading save."
+			},
+			"testedon": {
+				"tldversion": "2.44",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": [],

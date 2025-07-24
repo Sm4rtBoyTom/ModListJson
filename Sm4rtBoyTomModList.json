@@ -137,11 +137,11 @@
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AmmoTools.png"
 			],
 			"dependencies": [
+				"ModSettings",
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions",
-				"ModSettings"
+				"CraftingRevisions"
 			],
 			"status": {
 				"working": true,
@@ -248,6 +248,50 @@
 			},
 			"testedon": {
 				"tldversion": "2.43",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "2.1.0",
+			"name": "Choose Starting Conditions",
+			"displayName": "Choose Starting Conditions",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "Cass, Phaedrus",
+			"released": "2025-07-24",
+			"updated": "2025-07-24",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/ChooseStartingConditions/releases/download/v2.1.0/ChooseStartingConditions.dll",
+			"modURL": "https://github.com/Sm4rtBoyTom/ChooseStartingConditions",
+			"description": "A mod for The Long Dark. This mod allows you to choose your starting condition, fatigue, hunger, thirst, warmth, injuries and illnesses when starting a new game.",
+			"tags": "Injury, Injuries, Ill, Illness, Sprain, Scurvy, Afflictions, Hardcore, Settings, Misery, Condition, Ribs",
+			"categories": [
+				"Gameplay",
+				"Cheats",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/ChooseStartingConditions",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {

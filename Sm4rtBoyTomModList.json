@@ -338,7 +338,7 @@
 				"beta": true,
 				"patchnotes": "",
 				"notes": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse",
-				"issues": "\n- Unopened cans of food look the same as opened.\n- First person Matches texture is different.\n- Sometimes the texture isn't loaded correctly when entering a scene (usually can be fixed by re-entering scene/reloading save."
+				"issues": ""
 			},
 			"testedon": {
 				"tldversion": "2.44",

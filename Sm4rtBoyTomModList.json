@@ -129,7 +129,6 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
 				"tftft"
 			],
 			"images": [
@@ -352,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

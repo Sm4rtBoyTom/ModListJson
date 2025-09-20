@@ -184,7 +184,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_HUDImprovements.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_HUDImprovements.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

@@ -278,7 +278,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_ChooseStartingConditions.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_ChooseStartingConditions.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

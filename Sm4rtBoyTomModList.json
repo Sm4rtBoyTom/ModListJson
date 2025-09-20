@@ -232,7 +232,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_RepairableRepairables.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_RepairableRepairables.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

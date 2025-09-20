@@ -194,7 +194,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "https://github.com/Sm4rtBoyTom/HUDImprovements",
-				"issues": ""
+				"issues": "Some UI stay slightly visible on the screen, when enabled in the ModSettings. Nothing game breaking, just annoying."
 			},
 			"testedon": {
 				"tldversion": "2.40",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

@@ -81,7 +81,7 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreWood.png"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreWood.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

@@ -257,14 +257,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.1.0",
+			"version": "2.1.1",
 			"name": "Choose Starting Conditions - Remastered",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "Cass, Phaedrus",
 			"released": "2025-07-24",
-			"updated": "2025-07-24",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/ChooseStartingConditions/releases/download/v2.1.0/ChooseStartingConditions.dll",
+			"updated": "2025-09-20",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/ChooseStartingConditions/releases/download/v2.1.1/ChooseStartingConditions.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/ChooseStartingConditions",
 			"description": "A mod for The Long Dark. This mod allows you to choose your starting condition, fatigue, hunger, thirst, warmth, injuries and illnesses when starting a new game.",
 			"tags": "Injury, Injuries, Ill, Illness, Sprain, Scurvy, Afflictions, Hardcore, Settings, Misery, Condition, Ribs",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

@@ -258,7 +258,7 @@
 		{
 			"type": "mod",
 			"version": "2.1.0",
-			"name": "Choose Starting Conditions - Remastered",
+			"name": "Choose Starting Conditions",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "Cass, Phaedrus",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

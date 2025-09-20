@@ -259,7 +259,7 @@
 			"type": "mod",
 			"version": "2.1.1",
 			"name": "Choose Starting Conditions - Remastered",
-			"displayName": "",
+			"displayName": "Choose Starting Conditions",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "Cass, Phaedrus",
 			"released": "2025-07-24",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

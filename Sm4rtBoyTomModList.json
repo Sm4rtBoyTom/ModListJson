@@ -303,14 +303,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.1.0",
+			"version": "0.1.1",
 			"name": "Relics of the Quiet Apocalypse",
 			"displayName": "Relics of the Quiet Apocalypse",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-07-24",
-			"updated": "2025-07-24",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse/releases/download/v0.1.0/RetroTextures.dll",
+			"updated": "2025-09-20",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse/releases/download/v0.1.1/RetroTextures.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse",
 			"description": "Relics of the Quiet Apocalypse mod brings back GearItem textures from the older builds of TLD. (Can be customized via ModSettings.)",
 			"tags": "Texture, Rewamp, Graphic, Settings, Old, Relics, Apocalypse, Food, Tool, Look, Pack, Book, Cut, Discontinued",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

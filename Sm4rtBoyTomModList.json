@@ -161,17 +161,17 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.1",
+			"version": "1.2.0",
 			"name": "HUD Improvements",
-			"displayName": "",
+			"displayName": "HUD Tweaks",
 			"author": "Sm4rtBoyTom, Digitalzombie",
 			"previousAuthors": "",
 			"released": "2025-01-02",
-			"updated": "2025-05-17",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDImprovements/releases/download/v1.1.1/HUDImprovements.dll",
-			"modURL": "https://github.com/Sm4rtBoyTom/HUDImprovements",
-			"description": "HUD Improvements mod adds ability to enable or disable certain, potentially annoying, HUD elements via ModSettings.\nBig thanks to DigitalZombie for allowing me to merge this mod together with his Yes I Know mod\nDisables the hover text on items and / or fires. You've played the game long enough, you know how a stick looks like.",
-			"tags": "HUD, Sm4rtBoyTom, Graphics, Icon, UI, Improve",
+			"updated": "2025-09-28",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDTweaks/releases/download/v1.2.0/HUDImprovements.dll",
+			"modURL": "https://github.com/Sm4rtBoyTom/HUDTweaks",
+			"description": "HUD Tweaks/Improvements mod adds ability to enable or disable certain, potentially annoying, HUD elements via ModSettings.\nBig thanks to DigitalZombie for allowing me to merge this mod together with his Yes I Know mod\nDisables the hover text on items and / or fires. You've played the game long enough, you know how a stick looks like.",
+			"tags": "HUD, Sm4rtBoyTom, Graphics, Icon, UI, Improve, Tweaks",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -194,10 +194,10 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "https://github.com/Sm4rtBoyTom/HUDImprovements",
-				"issues": "Some UI stay slightly visible on the screen, when enabled in the ModSettings. Nothing game breaking, just annoying."
+				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

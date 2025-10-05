@@ -110,14 +110,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.1.2",
+			"version": "3.2.0",
 			"name": "AmmunitionCraftingTools",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-10-28",
-			"updated": "2025-09-20",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/tag/v3.1.2",
+			"updated": "2025-10-05",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/tag/v3.2.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
 			"description": "This mod rewamps and changes the process of crafting ammunitions, making it harder but more rewarding and enjoyable.",
 			"tags": "ammo, ammunition, tools, crafting, workbench, blueprint, revolver, rifle, gunpowder, cartridge, casing, bullet, bullets, fire, forge, Sm4rtBoyTom",
@@ -351,6 +351,7 @@
 		}
 	]
 }
+
 
 
 

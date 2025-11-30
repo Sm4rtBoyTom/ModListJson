@@ -351,14 +351,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "Forager's Delight",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-10-05",
-			"updated": "2025-10-05",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight/releases/download/v1.0.0/Forager.s.Delight.dll",
+			"updated": "2025-11-30",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight/releases/download/v1.1.0/Forager.s.Delight.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight",
 			"description": "Forager's Delight mod add small (customizable) carry weight buff to some clothing items.",
 			"tags": "clothing, gear, weight, bonus, buff, carry, capacity, Sm4rtBoyTom, Tom, ",
@@ -399,4 +399,5 @@
 		}
 	]
 }
+
 

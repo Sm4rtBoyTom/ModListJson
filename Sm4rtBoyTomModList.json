@@ -6,16 +6,16 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.2.5",
+			"version": "2.3.0",
 			"name": "StalkerAidsAndSupplements",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-08-01",
-			"updated": "2025-10-05",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v2.2.5",
+			"updated": "2026-01-05",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v2.3.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
-			"description": "This mod expands on TLD's medical items. Most of the item are inspired by S.T.A.L.K.E.R games, you may come across some refferences.",
+			"description": "This mod expands on TLD's medical GEAR items. Some items are inspired by the S.T.A.L.K.E.R series.",
 			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom",
 			"categories": [
 				"Quality of Life",
@@ -47,8 +47,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -59,16 +59,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.0",
+			"version": "2.3.0",
 			"name": "MoreWood",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-10-04",
-			"updated": "2025-09-20",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/tag/v2.2.0",
+			"updated": "2026-01-04",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/MoreWood/releases/tag/v2.3.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/MoreWood",
-			"description": "This mod adds two new types of wood. Birch can be found near birch trees or forests. Oak firewood can sometimes be found near oak trees and occasionally in forests.",
+			"description": "This mod adds two new types of wood. Birch - Similar to Cedar. Spawns in birch forests. Oak - similar to Fir.  Can be found around Oak tress and randomly spawns in forests.",
 			"tags": "wood, fire, firestarting, birch, oak, firewood, campfire, burnanble, Sm4rtBoyTom",
 			"categories": [
 				"Quality of Life",
@@ -77,8 +77,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreWood.jpg"
@@ -98,8 +97,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -110,16 +109,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.2.1",
+			"version": "3.2.2",
 			"name": "AmmunitionCraftingTools",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-10-28",
-			"updated": "2025-10-22",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/tag/3.2.1",
+			"updated": "2026-01-04",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/tag/v3.2.2",
 			"modURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
-			"description": "This mod rewamps and changes the process of crafting ammunitions, making it harder but more rewarding and enjoyable.",
+			"description": "This mod revamps and changes the process of making ammunition, making it harder but more enjoyable and rewarding.",
 			"tags": "ammo, ammunition, tools, crafting, workbench, blueprint, revolver, rifle, gunpowder, cartridge, casing, bullet, bullets, fire, forge, Sm4rtBoyTom",
 			"categories": [
 				"Quality of Life",
@@ -149,8 +148,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -162,15 +161,15 @@
 		{
 			"type": "mod",
 			"version": "1.2.0",
-			"name": "HUD Improvements",
-			"displayName": "HUD Tweaks",
+			"name": "HUDTweaks",
+			"displayName": "HUDTweaks",
 			"author": "Sm4rtBoyTom, Digitalzombie",
 			"previousAuthors": "",
 			"released": "2025-01-02",
 			"updated": "2025-09-28",
 			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDTweaks/releases/download/v1.2.0/HUDImprovements.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/HUDTweaks",
-			"description": "HUD Tweaks/Improvements mod adds ability to enable or disable certain, potentially annoying, HUD elements via ModSettings.\nBig thanks to DigitalZombie for allowing me to merge this mod together with his Yes I Know mod\nDisables the hover text on items and / or fires. You've played the game long enough, you know how a stick looks like.",
+			"description": "HUD Tweaks mod adds ability to enable or disable certain, potentially annoying, HUD elements via ModSettings.",
 			"tags": "HUD, Sm4rtBoyTom, Graphics, Icon, UI, Improve, Tweaks",
 			"categories": [
 				"Quality of Life",
@@ -180,8 +179,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_HUDTweals.jpg"
@@ -197,8 +195,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -209,16 +207,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
-			"name": "Repairable Repairables",
+			"version": "1.1.0",
+			"name": "RepairableRepairables",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-05-31",
-			"updated": "2025-05-31",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables/releases/download/1.0.0/Repairable.Repairables.dll",
+			"updated": "2026-01-05",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables/releases/download/v1.1.0/Repairable.Repairables.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables",
-			"description": "Repairable Repairables, gives you the option to fix three of the basic tools used for repairing, crafting and sharpening. The tool that can be fixed are as follows: Rifle Cleaning Kit, Sewing Kit, whetstone/Sharpening Stone",
+			"description": "Repairable Repairables, gives you the option to fix three of the basic tools used for repairing, crafting and sharpening. The tools that can be fixed are as follows: Rifle Cleaning Kit, Sewing Kit, whetstone/Sharpening Stone",
 			"tags": "tools, gear, items, crafting, repair, overhaul, fix, hud, Sm4rtBoyTom, tool, sewing kit, kit, cleaning, rifle, stone, sharpening, whetstone",
 			"categories": [
 				"Quality of Life",
@@ -228,8 +226,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_RepairableRepairables.jpg"
@@ -245,8 +242,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.43",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -258,7 +255,7 @@
 		{
 			"type": "mod",
 			"version": "2.1.1",
-			"name": "Choose Starting Conditions - Remastered",
+			"name": "ChooseStartingCondition-Remastered",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "Cass, Phaedrus",
@@ -274,7 +271,6 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
 				"tftft"
 			],
 			"images": [
@@ -291,8 +287,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -303,14 +299,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.1.1",
-			"name": "Relics of the Quiet Apocalypse",
-			"displayName": "Relics of the Quiet Apocalypse",
+			"version": "0.1.2",
+			"name": "RelicsoftheQuietApocalypse",
+			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-07-24",
-			"updated": "2025-09-20",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse/releases/download/v0.1.1/RetroTextures.dll",
+			"updated": "2026-01-05",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse/releases/download/v0.1.2/RetroTextures.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse",
 			"description": "Relics of the Quiet Apocalypse mod brings back GearItem textures from the older builds of TLD. (Can be customized via ModSettings.)",
 			"tags": "Texture, Rewamp, Graphic, Settings, Old, Relics, Apocalypse, Food, Tool, Look, Pack, Book, Cut, Discontinued",
@@ -322,8 +318,7 @@
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
-				"tftft"
+				"vanilla"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_RetroTextures.jpg"
@@ -339,8 +334,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -351,26 +346,27 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
-			"name": "Forager's Delight",
-			"displayName": "",
+			"version": "1.2.0",
+			"name": "ForagersDelight",
+			"displayName": "Forager'sDelight",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-10-05",
-			"updated": "2025-11-30",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight/releases/download/v1.1.0/Forager.s.Delight.dll",
+			"updated": "2026-01-04",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight/releases/download/v1.2.0/Forager.s.Delight.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight",
-			"description": "Forager's Delight mod add small (customizable) carry weight buff to some clothing items.",
+			"description": "Forager's Delight mod adds small (customizable) carry weight buff to some clothing items.",
 			"tags": "clothing, gear, weight, bonus, buff, carry, capacity, Sm4rtBoyTom, Tom, ",
 			"categories": [
+				"Quality of Life",
 				"Gameplay",
 				"Clothing",
 				"Overhaul",
 				"Utility Mod",
+				"Cheats",
 				"Misc"
 			],
 			"gameversion": [
-				"vanilla",
 				"tftft"
 			],
 			"images": [
@@ -387,8 +383,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.44",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
@@ -399,5 +395,3 @@
 		}
 	]
 }
-
-

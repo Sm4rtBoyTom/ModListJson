@@ -34,10 +34,7 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
@@ -84,10 +81,7 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
@@ -135,10 +129,7 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"LocalizationUtilities",
-				"GearSpawner",
-				"CraftingRevisions"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,

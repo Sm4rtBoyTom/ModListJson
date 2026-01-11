@@ -339,7 +339,7 @@
 			"type": "mod",
 			"version": "1.2.0",
 			"name": "ForagersDelight",
-			"displayName": "Forager'sDelight",
+			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-10-05",
@@ -386,4 +386,5 @@
 		}
 	]
 }
+
 

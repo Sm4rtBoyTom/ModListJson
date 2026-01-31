@@ -386,14 +386,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "SkilletInRadial",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2026-01-31",
 			"updated": "2026-01-31",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/SkilletInRadial/releases/download/1.0.0/SkilletInRadial.dll",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/SkilletInRadial/releases/download/v1.0.1/SkilletInRadial.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/SkilletInRadial",
 			"description": "The name says it all.... It adds Skillet to the Radial Panel",
 			"tags": "radial, menu, panel, skillet, tool, qol, Sm4rtboytom, Tom, SmartBoyTom, Quality of life, fix",
@@ -430,3 +430,4 @@
 		}
 	]
 }
+

@@ -383,8 +383,50 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "SkilletInRadial",
+			"displayName": "",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2026-01-31",
+			"updated": "2026-01-31",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/SkilletInRadial/releases/download/1.0.0/SkilletInRadial.dll",
+			"modURL": "https://github.com/Sm4rtBoyTom/SkilletInRadial",
+			"description": "The name says it all.... It adds Skillet to the Radial Panel",
+			"tags": "radial, menu, panel, skillet, tool, qol, Sm4rtboytom, Tom, SmartBoyTom, Quality of life, fix",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_SkilletInRadial.jpg"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/SkilletInRadial?tab=readme-ov-file",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
-
-

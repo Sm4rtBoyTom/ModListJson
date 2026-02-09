@@ -205,7 +205,7 @@
 			"previousAuthors": "",
 			"released": "2025-05-31",
 			"updated": "2026-01-05",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables/releases/download/v1.1.0/Repairable.Repairables.dll",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables/releases/download/v1.1.0/RepairableRepairables.dll",
 			"modURL": "https://github.com/Sm4rtBoyTom/Repairable-Repairables",
 			"description": "Repairable Repairables, gives you the option to fix three of the basic tools used for repairing, crafting and sharpening. The tools that can be fixed are as follows: Rifle Cleaning Kit, Sewing Kit, whetstone/Sharpening Stone",
 			"tags": "tools, gear, items, crafting, repair, overhaul, fix, hud, Sm4rtBoyTom, tool, sewing kit, kit, cleaning, rifle, stone, sharpening, whetstone",
@@ -430,4 +430,3 @@
 		}
 	]
 }
-

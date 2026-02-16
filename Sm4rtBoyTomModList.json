@@ -246,7 +246,7 @@
 		{
 			"type": "mod",
 			"version": "2.1.1",
-			"name": "ChooseStartingCondition-Remastered",
+			"name": "ChooseStartingCondition",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "Cass, Phaedrus",
@@ -430,3 +430,4 @@
 		}
 	]
 }
+

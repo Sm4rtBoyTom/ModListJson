@@ -15,8 +15,8 @@
 			"updated": "2026-02-24",
 			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v3.0.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
-			"description": "This mod expands on TLD's medical GEAR items. Some items are inspired by the S.T.A.L.K.E.R series.",
-			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom",
+			"description": "Expansion of the First Aid System. Inspired by S.T.A.L.K.E.R Series. Compatible with Improved Afflictions.",
+			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom, Tom, Sm4rt, Smart, pain, headache, bandage, cure, cooking, food, expansion, rework",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -34,7 +34,8 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent"
+				"ModComponent",
+				"AlcoholMod"
 			],
 			"status": {
 				"working": true,
@@ -430,6 +431,7 @@
 		}
 	]
 }
+
 
 
 

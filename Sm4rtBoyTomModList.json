@@ -152,16 +152,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "2.0.0",
 			"name": "HUDTweaks",
 			"displayName": "HUDTweaks",
 			"author": "Sm4rtBoyTom, Digitalzombie",
 			"previousAuthors": "",
 			"released": "2025-01-02",
-			"updated": "2025-09-28",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDTweaks/releases/download/v1.2.0/HUDImprovements.dll",
+			"updated": "2026-2-24",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDTweaks/releases/tag/v2.0.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/HUDTweaks",
-			"description": "HUD Tweaks mod adds ability to enable or disable certain, potentially annoying, HUD elements via ModSettings.",
+			"description": "Enable/Disable certains parts of the UI for more immersive experience.",
 			"tags": "HUD, Sm4rtBoyTom, Graphics, Icon, UI, Improve, Tweaks",
 			"categories": [
 				"Quality of Life",
@@ -431,6 +431,7 @@
 		}
 	]
 }
+
 
 
 

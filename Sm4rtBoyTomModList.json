@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.3.0",
+			"version": "3.0.0",
 			"name": "StalkerAidsAndSupplements",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-08-01",
-			"updated": "2026-01-05",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v2.3.0",
+			"updated": "2026-02-24",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v3.0.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
 			"description": "This mod expands on TLD's medical GEAR items. Some items are inspired by the S.T.A.L.K.E.R series.",
 			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom",
@@ -430,5 +430,6 @@
 		}
 	]
 }
+
 
 

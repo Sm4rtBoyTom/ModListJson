@@ -6,17 +6,17 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "3.0.1",
+			"version": "4.0.0",
 			"name": "StalkerAidsAndSupplements",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2024-08-01",
-			"updated": "2026-04-25",
+			"updated": "2026-05-22",
 			"downloadURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v3.0.1",
 			"modURL": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements",
 			"description": "Expansion of the First Aid System. Inspired by S.T.A.L.K.E.R Series. Compatible with Improved Afflictions.",
-			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom, Tom, Sm4rt, Smart, pain, headache, bandage, cure, cooking, food, expansion, rework",
+			"tags": "food, meds, pills, first aid, healing, medical, item, vitamin, tablets, drugs, recipe, blueprint, tinder, Sm4rtBoyTom, Tom, Sm4rt, Smart, pain, headache, bandage, cure, cooking, food, expansion, rework, smoking, affliction, buff, smoke, re-work, rework",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -30,18 +30,20 @@
 				"tftft"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_MoreMeds.jpg"
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_StalkerAidsAndSupplements.jpg"
 			],
 			"dependencies": [
 				"ModSettings",
 				"ModComponent",
-				"AlcoholMod"
+				"ModData",
+				"AlcoholMod",
+				"Moment"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases/tag/v3.0.1",
+				"notes": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases",
 				"issues": ""
 			},
 			"testedon": {
@@ -431,9 +433,3 @@
 		}
 	]
 }
-
-
-
-
-
-

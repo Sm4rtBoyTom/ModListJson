@@ -37,7 +37,8 @@
 				"ModComponent",
 				"ModData",
 				"AlcoholMod",
-				"Moment"
+				"Moment",
+				"AfflictionComponent"
 			],
 			"status": {
 				"working": true,

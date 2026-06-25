@@ -341,16 +341,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.3.0",
 			"name": "ForagersDelight",
 			"displayName": "",
 			"author": "Sm4rtBoyTom",
 			"previousAuthors": "",
 			"released": "2025-10-05",
-			"updated": "2026-01-04",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight/releases/download/v1.2.0/Forager.s.Delight.dll",
+			"updated": "2026-06-25",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight/releases/tag/v1.3.0",
 			"modURL": "https://github.com/Sm4rtBoyTom/Forager-s-Delight",
-			"description": "Forager's Delight mod adds small (customizable) carry weight buff to some clothing items.",
+			"description": "Forager's Delight mod adds small (customizable) carry weight buff to all clothing items.",
 			"tags": "clothing, gear, weight, bonus, buff, carry, capacity, Sm4rtBoyTom, Tom, ",
 			"categories": [
 				"Quality of Life",
@@ -364,9 +364,7 @@
 			"gameversion": [
 				"tftft"
 			],
-			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_ForagersDelight.jpg"
-			],
+			"images": [],
 			"dependencies": [
 				"ModSettings"
 			],
@@ -378,7 +376,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {

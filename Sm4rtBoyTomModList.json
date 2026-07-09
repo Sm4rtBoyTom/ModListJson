@@ -55,8 +55,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -102,8 +101,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -150,19 +148,18 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "2.0.0",
+			"version": "2.0.1",
 			"name": "HUDTweaks",
 			"displayName": "HUDTweaks",
 			"author": "Sm4rtBoyTom, Digitalzombie",
 			"previousAuthors": "",
 			"released": "2025-01-02",
-			"updated": "2026-2-24",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDTweaks/releases/tag/v2.0.0",
+			"updated": "2026-07-09",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/HUDTweaks/releases",
 			"modURL": "https://github.com/Sm4rtBoyTom/HUDTweaks",
 			"description": "Enable/Disable certains parts of the UI for more immersive experience.",
 			"tags": "HUD, Sm4rtBoyTom, Graphics, Icon, UI, Improve, Tweaks",
@@ -190,15 +187,14 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.55",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -244,8 +240,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -289,8 +284,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -336,8 +330,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -383,8 +376,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		},
 		{
 			"type": "mod",
@@ -427,8 +419,7 @@
 				"enable": false,
 				"downloads": []
 			},
-			"aliases": [],
-			"replaces": []
+			"aliases": []
 		}
 	]
 }

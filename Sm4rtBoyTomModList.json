@@ -421,6 +421,54 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.3.0",
+			"name": "Leatherworks",
+			"displayName": "Leatherworks",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "TonisGaming",
+			"released": "2023-11-28",
+			"updated": "2026-07-17",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/Leatherworks/releases/tag/v1.3.0",
+			"modURL": "https://github.com/Sm4rtBoyTom/Leatherworks",
+			"description": "Adds a way to renew leather from hide, the ability to make certain leather clothing, and adds tree bark, that can be utilized for many different utilities, like flour, food and string",
+			"tags": "leather, leatherwork, bark, food, clothing, tool, hide, Sm4rtBoyTom, Tom, Tonis",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Clothing",
+				"Food",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"Modders' Gear Toolbox"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "https://github.com/Sm4rtBoyTom/Leatherworks",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }

@@ -174,9 +174,7 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [
-				""
-			],
+			"images": [],
 			"dependencies": [
 				"ModSettings"
 			],

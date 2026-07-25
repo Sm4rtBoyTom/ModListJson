@@ -455,11 +455,11 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Unstable pre-release, issues are expected"
 			},
 			"testedon": {
-				"tldversion": "",
-				"mlversion": ""
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,

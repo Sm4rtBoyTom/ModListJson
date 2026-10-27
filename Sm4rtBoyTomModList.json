@@ -452,13 +452,12 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"Modders' Gear Toolbox"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
-				"patchnotes": "https://github.com/Sm4rtBoyTom/Leatherworks",
+				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
@@ -467,7 +466,51 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": false,
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "AutumnComforts",
+			"displayName": "AutumnComforts",
+			"author": "Sm4rtboyTom",
+			"previousAuthors": "",
+			"released": "2026-10-27",
+			"updated": "2026-10-27",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/AutumnComforts/releases/tag/v1.0.0",
+			"modURL": "https://github.com/Sm4rtBoyTom/AutumnComforts",
+			"description": "Adds 4 new cooking recipes and a new ingredient - Pumpkin. Brings back some Items from 4DON event.",
+			"tags": "Food, Cook, Eat, Recipe, Craft, Pumpkin, Coffee, Soup, Pie, Seed, Sm4rtBoytom, 4DON, Days of Night, Four Days of Night",
+			"categories": [
+				"Gameplay",
+				"Gear Items",
+				"Food"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AutumnComforts.jpg"
+			],
+			"dependencies": [
+				"ModComponent"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/AutumnComforts",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
 				"downloads": []
 			},
 			"aliases": []

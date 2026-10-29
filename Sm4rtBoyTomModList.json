@@ -42,14 +42,14 @@
 				"ExpandedTradingFramework"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "https://github.com/Sm4rtBoyTom/StalkerAidsAndSupplements/releases",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -95,7 +95,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -142,7 +142,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -186,7 +186,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -232,7 +232,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -276,7 +276,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -315,14 +315,14 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": true,
 				"patchnotes": "",
 				"notes": "https://github.com/Sm4rtBoyTom/RelicsOfTheQuietApocalypse",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -370,7 +370,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -455,14 +455,14 @@
 				"ModComponent"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -506,7 +506,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.58",
 				"mlversion": "0.7.2"
 			},
 			"updater": {

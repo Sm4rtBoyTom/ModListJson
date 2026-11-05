@@ -106,53 +106,6 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.2.2",
-			"name": "AmmunitionCraftingTools",
-			"displayName": "",
-			"author": "Sm4rtBoyTom",
-			"previousAuthors": "",
-			"released": "2024-10-28",
-			"updated": "2026-01-04",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools/releases/tag/v3.2.2",
-			"modURL": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
-			"description": "This mod revamps and changes the process of making ammunition, making it harder but more enjoyable and rewarding.",
-			"tags": "ammo, ammunition, tools, crafting, workbench, blueprint, revolver, rifle, gunpowder, cartridge, casing, bullet, bullets, fire, forge, Sm4rtBoyTom",
-			"categories": [
-				"Quality of Life",
-				"Gameplay",
-				"Gear Items",
-				"Overhaul",
-				"Misc"
-			],
-			"gameversion": [
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_AmmoTools.jpg"
-			],
-			"dependencies": [
-				"ModSettings",
-				"ModComponent"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "https://github.com/Sm4rtBoyTom/AmmunitionCraftingTools",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.58",
-				"mlversion": "0.7.2"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.0.1",
 			"name": "HUDTweaks",
 			"displayName": "HUDTweaks",
@@ -466,21 +419,21 @@
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "AutumnComforts",
 			"displayName": "AutumnComforts",
 			"author": "Sm4rtboyTom",
 			"previousAuthors": "",
 			"released": "2026-10-27",
-			"updated": "2026-10-28",
-			"downloadURL": "https://github.com/Sm4rtBoyTom/AutumnComforts/releases/tag/v1.0.1",
+			"updated": "2026-11-05",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/AutumnComforts/releases/tag/v1.0.2",
 			"modURL": "https://github.com/Sm4rtBoyTom/AutumnComforts",
 			"description": "Adds 4 new cooking recipes and a new ingredient - Pumpkin. Brings back some Items from 4DON event.",
 			"tags": "Food, Cook, Eat, Recipe, Craft, Pumpkin, Coffee, Soup, Pie, Seed, Sm4rtBoytom, 4DON, Days of Night, Four Days of Night",
@@ -506,11 +459,11 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.58",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": []

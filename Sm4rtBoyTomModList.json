@@ -408,7 +408,7 @@
 				"Modders' Gear Toolbox"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",

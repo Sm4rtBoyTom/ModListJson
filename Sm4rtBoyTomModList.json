@@ -467,6 +467,52 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "SweetTreats",
+			"displayName": "SweetTreats",
+			"author": "Sm4rtBoyTom",
+			"previousAuthors": "",
+			"released": "2026-11-14",
+			"updated": "2026-11-14",
+			"downloadURL": "https://github.com/Sm4rtBoyTom/SweetTreats/releases/tag/v1.0.0",
+			"modURL": "https://github.com/Sm4rtBoyTom/SweetTreats",
+			"description": "Adds Sweetening mechanic to most drink/food items",
+			"tags": "Food, Cook, Eat, Recipe, Craft, Coffee, Tea, Sm4rtBoytom, Sweet, Sugar, Jam",
+			"categories": [
+				"Gameplay",
+				"Gear Items",
+				"Food"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/Sm4rtBoyTom/ModListJson/refs/heads/main/Thumb_SweetTreats.jpg"
+			],
+			"dependencies": [
+				"ModComponent",
+				"ModSettings",
+				"ExpandedTradingFramework"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "https://github.com/Sm4rtBoyTom/SweetTreats",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.59",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
